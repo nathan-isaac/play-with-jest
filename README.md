@@ -1,5 +1,7 @@
 # Play With Jest
 
+[![Build Status](https://travis-ci.org/nathanjisaac/play-with-jest.svg?branch=master)](https://travis-ci.org/nathanjisaac/play-with-jest)
+
 Play with the Jest framework to test JS and Vue.js components. 
 
 ## Relevant Links
