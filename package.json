@@ -17,7 +17,8 @@
         "vue-template-es2015-compiler": "^1.5.1"
     },
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "travis": "yarn run test -- --coverage"
     },
     "author": "",
     "license": "ISC",
